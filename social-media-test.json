@@ -1,0 +1,71 @@
+{
+    "photoId": "6969696969",
+    "writer": {
+        "userId": "321314112",
+        "name": "Tieu Phong",
+        "bio": "Bang chu Cai Bang thu 6",
+        "avatar": "https://langtieutu.files.wordpress.com/2012/12/00146.jpg?w=584",
+        "background": "https://danviet.mediacdn.vn/upload/4-2019/images/2019-10-10/Khong-phai-Hang-long-thap-bat-chuong-day-moi-la-tuyet-hoc-giup-Tieu-Phong-ap-che-quan-hung-tai-Tu-Hi-271-1570721305-width576height313.jpg"
+    },
+    "thumbnail": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2020/03/25/kiem-hiep-kim-dung-vi-chu-nhan-cua-tu-hien-trang-it-nguoi-biet2.jpg",
+    "status": "Nem thu hang long thap bat chuong cua bo may nek",
+    "location": "Tu Hien Trang,Ha Noi",
+    "likeCount": 3,
+    "commentCount": 2,
+    "likes": [
+        {
+            "likeId": "32423423",
+            "liker": {
+                "userId": "87623423",
+                "name": "Tieu Vien Son",
+                "bio": "Mot can 21",
+                "avatar": "srccontent.lh.sex_tvs",
+                "background": "srccontent.lh.sexxx_tvs"
+            }
+        },
+        {
+            "likeId": "32423424",
+            "liker": {
+                "userId": "564328424",
+                "name": "Doan Du",
+                "bio": "Duoc chich nhieu em",
+                "avatar": "srccontent.lh.sex_dd",
+                "background": "srccontent.lh.sexxx_dd"
+            }
+        },
+        {
+            "likeId": "32423425",
+            "liker": {
+                "userId": "1123141432",
+                "name": "Hu Truc",
+                "bio": "32 dong 76 dao",
+                "avatar": "srccontent.lh.sex_ht",
+                "background": "srccontent.lh.sexxx_ht"
+            }
+        }
+    ],
+    "comments":[
+        {
+            "commentId":"431243134",
+            "content":"Dung la con trai ta",
+            "commenter":{
+                "userId": "87623423",
+                "name": "Tieu Vien Son",
+                "bio": "Mot can 21",
+                "avatar": "srccontent.lh.sex_tvs",
+                "background": "srccontent.lh.sexxx_tvs"
+            }
+        },
+        {
+            "commentId":"431243135",
+            "content":"Tuoi lol sanh vai",
+            "commenter":{
+                "userId": "948324324",
+                "name": "Mo dung phuc",
+                "bio": "con trai yeu cua bo Mo Dung Bac",
+                "avatar": "srccontent.lh.sex_mdp",
+                "background": "srccontent.lh.sexxx_mdp"
+            }   
+        }
+    ]
+}
