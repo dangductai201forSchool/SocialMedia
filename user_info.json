@@ -1,0 +1,133 @@
+//Tieu Phong
+{
+    "name":"Tiêu Phong",
+    "bio":"Bang chủ Cái Bang đời thứ 6",
+    "avatar":{
+        "photoId":"jkljkl",
+        "thumbnail":"https://langtieutu.files.wordpress.com/2012/12/00146.jpg?w=584"
+    },
+    "background":{
+        "photoId":"jljljl",
+        "thumbnail":"https://danviet.mediacdn.vn/upload/4-2019/images/2019-10-10/Khong-phai-Hang-long-thap-bat-chuong-day-moi-la-tuyet-hoc-giup-Tieu-Phong-ap-che-quan-hung-tai-Tu-Hi-271-1570721305-width576height313.jpg"
+    },
+    "contacts":[
+        {
+            "type":"email",
+            "value":"thanvoprocute@gmail.com"
+        },
+        {
+            "type":"facebook",
+            "value":"https://www.facebook.com/profile.php?id=100010594033872"
+        },
+        {
+            "type":"phone",
+            "value":"0987115881"
+        },
+        {
+            "type":"github",
+            "value":"https://github.com/dangductai201forSchool"
+        },
+        {
+            "type":"linked",
+            "value":"https://www.linkedin.com/in/duc-tai-638032184/"
+        }
+    ],
+    "experiences":[
+        {
+            "status":"đã từng",
+            "doing":"học",
+            "task":"",
+            "position":"chùa Thiếu Lâm"
+        },
+        {
+            "status":"đã từng",
+            "doing":"học",
+            "task":"hàng long thập bát chưởng",
+            "position":"Uông Chính Thông academy-đẳng cấp Cái Bang"
+        },
+        {
+            "status":"đang",
+            "doing":"làm",
+            "task":"bang chủ",
+            "position":"Cái Bang"
+        },
+        {
+            "status":"đã từng",
+            "doing":"sống ở",
+            "position":"Khiết Đan"
+        }
+    ],
+    "allNames":[
+        "Kiều Phong","Tiêu Phong","Tiêu bang chủ"
+    ],
+    "allBios":[
+        "bắc tiêu phong nam mộ dung","A Tử mlem mlem","Hận Cái Bang"
+    ]
+}
+
+//Mo Dung Fuck
+{
+    "name":"Tiêu Phong",
+    "bio":"Bang chủ Cái Bang đời thứ 6",
+    "avatar":{
+        "photoId":"jkljkl",
+        "thumbnail":"https://langtieutu.files.wordpress.com/2012/12/00146.jpg?w=584"
+    },
+    "background":{
+        "photoId":"jljljl",
+        "thumbnail":"https://danviet.mediacdn.vn/upload/4-2019/images/2019-10-10/Khong-phai-Hang-long-thap-bat-chuong-day-moi-la-tuyet-hoc-giup-Tieu-Phong-ap-che-quan-hung-tai-Tu-Hi-271-1570721305-width576height313.jpg"
+    },
+    "contacts":[
+        {
+            "type":"email",
+            "value":"thanvoprocute@gmail.com"
+        },
+        {
+            "type":"facebook",
+            "value":"https://www.facebook.com/profile.php?id=100010594033872"
+        },
+        {
+            "type":"phone",
+            "value":"0987115881"
+        },
+        {
+            "type":"github",
+            "value":"https://github.com/dangductai201forSchool"
+        },
+        {
+            "type":"linked",
+            "value":"https://www.linkedin.com/in/duc-tai-638032184/"
+        }
+    ],
+    "experiences":[
+        {
+            "status":"đã từng",
+            "doing":"học",
+            "task":"",
+            "position":"chùa Thiếu Lâm"
+        },
+        {
+            "status":"đã từng",
+            "doing":"học",
+            "task":"hàng long thập bát chưởng",
+            "position":"Uông Chính Thông academy-đẳng cấp Cái Bang"
+        },
+        {
+            "status":"đang",
+            "doing":"làm",
+            "task":"bang chủ",
+            "position":"Cái Bang"
+        },
+        {
+            "status":"đã từng",
+            "doing":"sống ở",
+            "position":"Khiết Đan"
+        }
+    ],
+    "allNames":[
+        "Kiều Phong","Tiêu Phong","Tiêu bang chủ"
+    ],
+    "allBios":[
+        "bắc tiêu phong nam mộ dung","A Tử mlem mlem","Hận Cái Bang"
+    ]
+}
