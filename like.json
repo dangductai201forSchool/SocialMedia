@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "like1",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0003"
+        },
+        "post": {
+            "postId": "post1tieuphong123"
+        }
+    },
+    {
+        "_id": "like2",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0004"
+        },
+        "post": {
+            "postId": "post1tieuphong123"
+        }
+    },
+    {
+        "_id": "like3",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0003"
+        },
+        "post": {
+            "postId": "avatarpost1"
+        }
+    },
+    {
+        "_id": "like4",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0004"
+        },
+        "post": {
+            "postId": "avatarpost1"
+        }
+    },
+    {
+        "_id": "like5",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0003"
+        },
+        "post": {
+            "postId": "post2"
+        }
+    },
+    {
+        "_id": "like6",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0004"
+        },
+        "post": {
+            "postId": "post2"
+        }
+    },
+    {
+        "_id": "like7",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post2"
+        }
+    },
+    {
+        "_id": "like8",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0005"
+        },
+        "post": {
+            "postId": "post2"
+        }
+    },
+    {
+        "_id": "like9",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0003"
+        },
+        "post": {
+            "postId": "post3"
+        }
+    },
+    {
+        "_id": "like10",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post3"
+        }
+    },
+    {
+        "_id": "like11",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post4"
+        }
+    },
+    {
+        "_id": "like12",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post5"
+        }
+    },
+    {
+        "_id": "like13",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0003"
+        },
+        "post": {
+            "postId": "post5"
+        }
+    },
+    {
+        "_id": "like14",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0004"
+        },
+        "post": {
+            "postId": "post5"
+        }
+    },
+    {
+        "_id": "like15",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post7"
+        }
+    },
+    {
+        "_id": "like16",
+        "liker": {
+            "userId": "ff80818176e1c15d0176e1c7941d0002"
+        },
+        "post": {
+            "postId": "post8"
+        }
+    }
+]

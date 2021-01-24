@@ -1,0 +1,47 @@
+[
+    {
+        "_id":"reader1",
+        "post": {
+            "postId": "post1tieuphong123"
+        },
+        "reader":{
+            "userId":"ff80818176e1c15d0176e1c7941d0001"
+        }
+    },
+    {
+        "_id":"reader2",
+        "post": {
+            "postId": "post1tieuphong123"
+        },
+        "reader":{
+            "userId":"ff80818176e1c15d0176e1c7941d0002"
+        }
+    },
+    {
+        "_id":"reader3",
+        "post": {
+            "postId": "post1tieuphong123"
+        },
+        "reader":{
+            "userId":"ff80818176e1c15d0176e1c7941d0003"
+        }
+    },
+    {
+        "_id":"reader4",
+        "post": {
+            "postId": "post1tieuphong123"
+        },
+        "reader":{
+            "userId":"ff80818176e1c15d0176e1c7941d0000"
+        }
+    },
+    {
+        "_id":"reader5",
+        "post": {
+            "postId": "post1tieuphong123"
+        },
+        "reader":{
+            "userId":"ff80818176e1c15d0176e1c7941d0005"
+        }
+    }
+]
