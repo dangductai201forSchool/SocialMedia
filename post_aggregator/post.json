@@ -1,6 +1,7 @@
 [
     {
         "_id": "post1tieuphong123",
+        "type": "parent",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0001"
         },
@@ -15,13 +16,11 @@
             }
         ],
         "status": "You like i'm afternoon",
-        "location": "Tụ Hiền Trang, Hà Nội",
-        "likeCount": 2,
-        "commentCount": 1
+        "location": "Tụ Hiền Trang, Hà Nội"
     },
     {
         "_id": "avatarpost1",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0000"
         },
@@ -32,214 +31,188 @@
             }
         ],
         "status": "haizzzz",
-        "location": "Hà Nội",
-        "likeCount": 2,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post2",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0000"
         },
         "photos": [
             {
                 "photoId": "backgroundductai123",
-                "thumbnail": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/80224913_1036353880061070_2937949898969972736_o.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_ohc=QhKPkjk-ukoAX_ft8EK&_nc_ht=scontent.fhan2-1.fna&oh=0e93ec8b0c664fae5bf9e9afbc164767&oe=602DC740",
+                "thumbnail": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/80224913_1036353880061070_2937949898969972736_o.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_ohc=QhKPkjk-ukoAX_ft8EK&_nc_ht=scontent.fhan2-1.fna&oh=0e93ec8b0c664fae5bf9e9afbc164767&oe=602DC740"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 4,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post3",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0001"
         },
         "photos": [
             {
                 "photoId": "avatartieuphong123",
-                "thumbnail": "https://langtieutu.files.wordpress.com/2012/12/00146.jpg?w=584",
+                "thumbnail": "https://langtieutu.files.wordpress.com/2012/12/00146.jpg?w=584"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 2,
-        "commentCount": 1
+        "location": "Hà Nội"
     },
     {
         "_id": "post4",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0001"
         },
         "photos": [
             {
                 "photoId": "backgroundtieuphong123",
-                "thumbnail": "https://danviet.mediacdn.vn/upload/4-2019/images/2019-10-10/Khong-phai-Hang-long-thap-bat-chuong-day-moi-la-tuyet-hoc-giup-Tieu-Phong-ap-che-quan-hung-tai-Tu-Hi-271-1570721305-width576height313.jpg",
+                "thumbnail": "https://danviet.mediacdn.vn/upload/4-2019/images/2019-10-10/Khong-phai-Hang-long-thap-bat-chuong-day-moi-la-tuyet-hoc-giup-Tieu-Phong-ap-che-quan-hung-tai-Tu-Hi-271-1570721305-width576height313.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 1,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post5",
+        "type": "child",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0001"
         },
         "photos": [
             {
                 "photoId": "photo1tieuphong123",
-                "thumbnail": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2020/03/25/kiem-hiep-kim-dung-vi-chu-nhan-cua-tu-hien-trang-it-nguoi-biet2.jpg",
+                "thumbnail": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2020/03/25/kiem-hiep-kim-dung-vi-chu-nhan-cua-tu-hien-trang-it-nguoi-biet2.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 3,
-        "commentCount": 2
+        "location": "Hà Nội"
     },
     {
         "_id": "post6",
+        "type": "child",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0001"
         },
         "photos": [
             {
                 "photoId": "photo1tieuphong123",
-                "thumbnail": "https://sohanews.sohacdn.com/2019/12/25/a3b41819d651671b4a5e82d08003bcde-15772447246611844977481.jpg",
+                "thumbnail": "https://sohanews.sohacdn.com/2019/12/25/a3b41819d651671b4a5e82d08003bcde-15772447246611844977481.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post7",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0002"
         },
         "photos": [
             {
                 "photoId": "avatartieuvienson123",
-                "thumbnail": "https://www.dkn.tv/wp-content/uploads/2018/06/screenshot_3-3.png",
+                "thumbnail": "https://www.dkn.tv/wp-content/uploads/2018/06/screenshot_3-3.png"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 1,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post8",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0002"
         },
         "photos": [
             {
                 "photoId": "backgroundtieuvienson123",
-                "thumbnail": "https://www.dkn.tv/wp-content/uploads/2018/05/screenshot_7-3.png",
+                "thumbnail": "https://www.dkn.tv/wp-content/uploads/2018/05/screenshot_7-3.png"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 1,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post9",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0003"
         },
         "photos": [
             {
                 "photoId": "avatardoandu123",
-                "thumbnail": "https://kenh14cdn.com/2018/4/10/photo-8-1523339447420313194533.jpg",
+                "thumbnail": "https://kenh14cdn.com/2018/4/10/photo-8-1523339447420313194533.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post10",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0003"
         },
         "photos": [
             {
                 "photoId": "backgrounddoandu123",
-                "thumbnail": "https://kenh14cdn.com/thumb_w/660/2018/4/10/photo-1-crop-15233395828391197391993.jpg",
+                "thumbnail": "https://kenh14cdn.com/thumb_w/660/2018/4/10/photo-1-crop-15233395828391197391993.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post11",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0004"
         },
         "photos": [
             {
                 "photoId": "avatarhutruc123",
-                "thumbnail": "https://2.bp.blogspot.com/-O7l8I-ElYfI/ULVpTKvLlOI/AAAAAAAAHr0/nNzfhx4EQ9U/s1600/Cao+H%E1%BB%95+---+H%C6%B0+Tr%C3%BAc.JPG",
+                "thumbnail": "https://2.bp.blogspot.com/-O7l8I-ElYfI/ULVpTKvLlOI/AAAAAAAAHr0/nNzfhx4EQ9U/s1600/Cao+H%E1%BB%95+---+H%C6%B0+Tr%C3%BAc.JPG"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post12",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0004"
         },
         "photos": [
             {
                 "photoId": "backgroundhutruc123",
-                "thumbnail": "https://vcdn1-giaitri.vnecdn.net/2014/08/13/1-1988-1407899562.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=rT2AgqIiHNvObC25CCktGw",
+                "thumbnail": "https://vcdn1-giaitri.vnecdn.net/2014/08/13/1-1988-1407899562.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=rT2AgqIiHNvObC25CCktGw"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post13",
-        "title": "has update his avatar",
+        "type": "avatar",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0005"
         },
         "photos": [
             {
                 "photoId": "avatarmodungphuc123",
-                "thumbnail": "https://data.typeracer.com/misc/pic?uid=tr:nhap96&size=large",
+                "thumbnail": "https://data.typeracer.com/misc/pic?uid=tr:nhap96&size=large"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     },
     {
         "_id": "post14",
-        "title": "has update his background",
+        "type": "background",
         "writer": {
             "userId": "ff80818176e1c15d0176e1c7941d0005"
         },
         "photos": [
             {
                 "photoId": "backgroundmodungphuc123",
-                "thumbnail": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2020/9/12/photo-4-1599916680406562729983.jpg",
+                "thumbnail": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2020/9/12/photo-4-1599916680406562729983.jpg"
             }
         ],
-        "location": "Hà Nội",
-        "likeCount": 0,
-        "commentCount": 0
+        "location": "Hà Nội"
     }
 ]
